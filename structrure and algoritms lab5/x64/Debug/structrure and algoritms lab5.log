@@ -1,0 +1,4 @@
+﻿  structrure and algoritms lab5.cpp
+D:\с++\book\structrure and algoritms lab5\structrure and algoritms lab5.cpp(48,19): warning C4101: c: неиспользованная локальная переменная
+D:\с++\book\structrure and algoritms lab5\structrure and algoritms lab5.cpp(188,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  structrure and algoritms lab5.vcxproj -> D:\с++\book\structrure and algoritms lab5\x64\Debug\structrure and algoritms lab5.exe

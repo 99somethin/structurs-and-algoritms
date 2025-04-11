@@ -1,0 +1,4 @@
+﻿  structure and algoritms lab 2.cpp
+D:\с++\book\structure and algoritms lab 2\structure and algoritms lab 2.cpp(7,11): warning C4101: f: неиспользованная локальная переменная
+D:\с++\book\structure and algoritms lab 2\structure and algoritms lab 2.cpp(16,9): warning C4101: i: неиспользованная локальная переменная
+  structure and algoritms lab 2.vcxproj -> D:\с++\book\structure and algoritms lab 2\x64\Debug\structure and algoritms lab 2.exe
